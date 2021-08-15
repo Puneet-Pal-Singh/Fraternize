@@ -1,0 +1,24 @@
+user1 - puneet.singh@gmail.com
+pass - 12345
+
+
+user1 - jaskaran.singh@gmail.com
+pass - 12345
+
+
+user1 - jagdeep.singh@gmail.com
+pass - 12345
+
+
+
+user1 - jaskirat.singh@gmail.com
+pass - 12345
+
+
+
+user1 - karan.singh@gmail.com
+pass - 12345
+
+
+user1 - aman.singh@gmail.com
+pass - 12345
